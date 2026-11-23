@@ -1,3 +1,4 @@
+![Naveen Balaji S - Developer Banner](./banner.png)
 # Naveen Balaji S
 
 Engineering student interested in software development, electronics and practical problem solving.

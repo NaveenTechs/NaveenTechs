@@ -17,7 +17,7 @@ I like working on projects that combine programming with hardware. Most of my wo
 
 **Programming**
 - Python
-- C
+- C++
 
 **Hardware & Embedded Systems**
 - Arduino
@@ -51,8 +51,7 @@ A robotic car concept designed with a mechanism to respond to wheel failure.
 ### 6. ASSEMBLY IQ – Intelligent Assembly Line
 A system designed to verify assembly operations and identify incorrect components during the process.
 
-### 7. Wireless Charging While Driving
-A separate project exploring wireless charging for an electric vehicle while it is moving.
+
 
 ## Areas of Interest
 
